@@ -9,7 +9,7 @@
  },
  {
   "input": "Maybe you've seen one before, it's a popular demonstration of how, even when a single event is chaotic and random, with an effectively unknowable outcome, it's still possible to make precise statements about a large number of events, namely how the relative proportions for many different outcomes are distributed. ",
-  "translatedText": "ربما تكون قد رأيت واحدًا من قبل، إنه عرض شائع لكيفية أنه، حتى عندما يكون حدث واحد فوضويًا وعشوائيًا، مع نتيجة غير معروفة فعليًا، لا يزال من الممكن تقديم بيانات دقيقة حول عدد كبير من الأحداث، أي كيفية النسب النسبية للعديد من النتائج المختلفة يتم توزيعها. ",
+  "translatedText": "ربما تكون قد رأيت واحدة من قبل، إنها عرض شائع لكيفية أنه، حتى عندما يكون حدث واحد فوضويًا وعشوائيًا، مع نتيجة غير معروفة فعليًا، لا يزال من الممكن تقديم بيانات دقيقة حول عدد كبير من الأحداث، أي كيفية توزيع النسب النسبية للعديد من النتائج المختلفة  . ",
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 2.52,
@@ -25,7 +25,7 @@
  },
  {
   "input": "There's a very specific function to describe this distribution, it's very pretty, we'll get into it later, but right now I just want to emphasize how the normal distribution is, as the name suggests, very common, it shows up in a lot of seemingly unrelated contexts. ",
-  "translatedText": "هناك وظيفة محددة جدًا لوصف هذا التوزيع، إنها جميلة جدًا، وسنتناولها لاحقًا، لكن الآن أريد فقط التأكيد على كيف أن التوزيع الطبيعي، كما يوحي الاسم، شائع جدًا، ويظهر في الكثير من السياقات التي تبدو غير ذات صلة. ",
+  "translatedText": "هناك وظيفة محددة جدًا لوصف هذا التوزيع، إنها جميلة جدًا، وسنتناولها لاحقًا، لكن الآن أريد فقط التأكيد على كيفيةِ أن التوزيع الطبيعي، كما يوحي الاسم، شائع جدًا، ويظهر في الكثير من السياقات التي تبدو غير ذات صلة. ",
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 32.5,
@@ -33,7 +33,7 @@
  },
  {
   "input": "If you were to take a large number of people who sit in a similar demographic and plot their heights, those heights tend to follow a normal distribution. ",
-  "translatedText": "إذا كنت ستأخذ عددًا كبيرًا من الأشخاص الذين يجلسون في مجموعة سكانية مماثلة وترسم طولهم، فإن تلك الارتفاعات تميل إلى اتباع التوزيع الطبيعي. ",
+  "translatedText": "إذا كنت ستأخذ عددًا كبيرًا من الأشخاص الذين يجلسون في مجموعة سكانية مماثلة وترسم طولهم، فإن تلك الارتفاعات تميل إلى اتباع توزيعٍ طبيعي. ",
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 46.02,
@@ -49,7 +49,7 @@
  },
  {
   "input": "Now our topic for today is one of the crown jewels in all of probability theory, it's one of the key facts that explains why this distribution is as common as it is, known as the central limit theorem. ",
-  "translatedText": "الآن موضوعنا لهذا اليوم هو أحد جواهر التاج في نظرية الاحتمالات كلها، إنها إحدى الحقائق الأساسية التي تشرح سبب شيوع هذا التوزيع كما هو، والمعروف باسم نظرية الحد المركزي. ",
+  "translatedText": "الآن موضوعنا لهذا اليوم هو أحد جواهر نظرية الاحتمالات كلها، إنها إحدى الحقائق الأساسية التي تشرح سبب شيوع هذا التوزيع كما هو، والمعروف باسم نظرية الحد المركزي. ",
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 65.58,
@@ -65,7 +65,7 @@
  },
  {
   "input": "We're going to go decently deep into it, but after this I'd still like to go deeper and explain why the theorem is true, why the function underlying the normal distribution has the very specific form that it does, why that formula has a pi in it, and, most fun, why those last two facts are actually more related than a lot of traditional explanations would suggest. ",
-  "translatedText": "سنتعمق في الأمر بشكل لائق، ولكن بعد ذلك ما زلت أرغب في التعمق أكثر وشرح سبب صحة النظرية، ولماذا تتمتع الدالة التي يقوم عليها التوزيع الطبيعي بالشكل المحدد للغاية، ولماذا تحتوي هذه الصيغة على هناك نقطة في ذلك، والأكثر متعة، لماذا ترتبط هاتان الحقيقتان الأخيرتان في الواقع أكثر مما قد توحي به الكثير من التفسيرات التقليدية. ",
+  "translatedText": "سنتعمق في الأمر بشكل لائق، ولكن بعد ذلك ما زلت أرغب في التعمق أكثر وشرح سبب صحة النظرية، ولماذا تتمتع الدالة التي يقوم عليها التوزيع الطبيعي بالشكل المحدد للغاية، ولماذا تحتوي هذه الصيغة على (پاي) ، والأكثر متعة، لماذا ترتبط هاتان الحقيقتان الأخيرتان في الواقع أكثر مما قد توحي به الكثير من التفسيرات التقليدية. ",
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 85.26,
@@ -89,7 +89,7 @@
  },
  {
   "input": "In this model we will assume that each ball falls directly onto a certain central peg and that it has a 50-50 probability of bouncing to the left or to the right, and we'll think of each of those outcomes as either adding one or subtracting one from its position. ",
-  "translatedText": "في هذا النموذج، سنفترض أن كل كرة تسقط مباشرة على وتد مركزي معين وأن احتمال ارتدادها إلى اليسار أو اليمين هو 50-50، وسنفكر في كل من هذه النتائج على أنها إما إضافة واحدة أو اخراج واحد من مكانه. ",
+  "translatedText": "في هذا النموذج، سنفترض أن كل كرة تسقط مباشرة على وتد مركزي معين وأن احتمال ارتدادها إلى اليسار أو اليمين هو 50-50، وسنفكر في كل من هذه النتائج على أنها إما إضافة واحدة أو اخراج واحدة من مكانها. ",
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 120.89,
@@ -97,7 +97,7 @@
  },
  {
   "input": "Once one of those is chosen, we make the highly unrealistic assumption that it happens to land dead on in the middle of the peg adjacent below it, where again it'll be faced with the same 50-50 choice of bouncing to the left or to the right. ",
-  "translatedText": "بمجرد اختيار واحد من هؤلاء، فإننا نفترض افتراضًا غير واقعي إلى حد كبير أنه حدث أن هبط ميتًا في منتصف الوتد المجاور أسفله، حيث سيواجه مرة أخرى نفس الاختيار بنسبة 50-50 للارتداد إلى اليسار أو إلى اليمين. ",
+  "translatedText": "بمجرد اختيار واحد من هؤلاء، فإننا نفترض افتراضًا غير واقعي إلى حد كبير أنه حدث أن هبط على منتصف الوتد المجاور أسفله، حيث سيواجه مرة أخرى نفس الاختيار بنسبة 50-50 للارتداد إلى اليسار أو إلى اليمين. ",
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 134.67,
@@ -105,7 +105,7 @@
  },
  {
   "input": "For the one I'm showing on screen, there are five different rows of pegs, so our little hopping ball makes five different random choices between plus one and minus one, and we can think of its final position as basically being the sum of all of those different numbers, which in this case happens to be one, and we might label all of the different buckets with the sum that they represent. ",
-  "translatedText": "بالنسبة للكرة التي أعرضها على الشاشة، هناك خمسة صفوف مختلفة من الأوتاد، لذا فإن كرة القفز الصغيرة لدينا تقوم بخمسة اختيارات عشوائية مختلفة بين زائد واحد وسالب واحد، ويمكننا التفكير في موضعها النهائي باعتباره مجموع الكل من هذه الأرقام المختلفة، والتي في هذه الحالة هي رقم واحد، ويمكننا تسمية جميع المجموعات المختلفة بالمجموع الذي تمثله. ",
+  "translatedText": "بالنسبة للكرة التي أعرضها على الشاشة، هناك خمسة صفوف مختلفة من الأوتاد، لذا فإن الكرة الصغيرة لدينا تقوم بخمسة اختيارات عشوائية مختلفة بين زائد واحد وسالب واحد، ويمكننا التفكير في موضعها النهائي باعتباره مجموع الكل من هذه الأرقام المختلفة، والتي في هذه الحالة هي رقم واحد، ويمكننا تسمية جميع المجموعات المختلفة بالمجموع الذي تمثله. ",
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 147.43,
@@ -113,7 +113,7 @@
  },
  {
   "input": "As we repeat this, we're looking at different possible sums for those five random numbers. ",
-  "translatedText": "بينما نكرر ذلك، فإننا ننظر إلى مجاميع مختلفة محتملة لهذه الأرقام العشوائية الخمسة. ",
+  "translatedText": "بينما نكرر ذلك، فإننا ننظر إلى مجاميع مختلفة محتملة لهذه الأرقام العشوائية الخمس . ",
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 166.35,
@@ -137,7 +137,7 @@
  },
  {
   "input": "If we let many different balls fall, making yet another unrealistic assumption that they don't influence each other as if they're all ghosts, then the number of balls that fall into each different bucket gives us some loose sense for how likely each one of those buckets is. ",
-  "translatedText": "إذا تركنا العديد من الكرات المختلفة تسقط، مع افتراض آخر غير واقعي مفاده أنها لا تؤثر على بعضها البعض كما لو كانت جميعها أشباح، فإن عدد الكرات التي تسقط في كل دلو مختلف يعطينا فكرة فضفاضة عن مدى احتمالية سقوط كل واحدة منها. من تلك الدلاء هو. ",
+  "translatedText": "إذا تركنا العديد من الكرات المختلفة تسقط، مع افتراض آخر غير واقعي مفاده أنها لا تؤثر على بعضها البعض كما لو كانت كلها شبحية ، فإن عدد الكرات التي تسقط في كل دلو مختلف يعطينا فكرة فضفاضة عن مدى احتمالية سقوط كل واحدة منها . ",
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 190.57,
@@ -153,7 +153,7 @@
  },
  {
   "input": "If you do want to think that through, you'll find it very reminiscent of Pascal's triangle. ",
-  "translatedText": "إذا كنت تريد التفكير في ذلك جيدًا، فستجد أنه يذكرنا جدًا بمثلث باسكال. ",
+  "translatedText": "إذا كنت تريد التفكير ملياً في ذلك ، فستجد أنه يذكرنا جدًا بمثلث باسكال. ",
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 210.27,
@@ -169,7 +169,7 @@
  },
  {
   "input": "So to start off at least, rather than making explicit calculations, let's just simulate things by running a large number of samples and letting the total number of results in each different outcome give us some sense for what that distribution looks like. ",
-  "translatedText": "لذا، لنبدأ على الأقل، بدلًا من إجراء حسابات صريحة، دعونا نحاكي الأشياء عن طريق تشغيل عدد كبير من العينات والسماح للعدد الإجمالي للنتائج في كل نتيجة مختلفة بأن يعطينا فكرة عن الشكل الذي يبدو عليه هذا التوزيع. ",
+  "translatedText": "لذا، لنبدأَ على الأقل، بدلًا من إجراء حسابات صريحة، دعونا نحاكي الأشياء عن طريق تشغيل عدد كبير من العينات والسماح للعدد الإجمالي للنتائج في كل نتيجة مختلفة بأن يعطينا فكرة عن الشكل الذي يبدو عليه هذا التوزيع. ",
   "model": "google_nmt",
   "n_reviews": 0,
   "start": 218.67,
